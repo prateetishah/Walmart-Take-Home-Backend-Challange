@@ -1,0 +1,2 @@
+R001 Current Request is invalid. Requested seats should be at most 200.
+R002 Current Request is invalid. Requested Seats should at least be 1.
