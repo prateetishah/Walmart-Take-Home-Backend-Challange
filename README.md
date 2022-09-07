@@ -1,4 +1,4 @@
-# Walmart-Take-Home-Backend-Challange
+# Seat Allocation System
 
 Problem Statement: To implement a seat allocation system with maximized customer satisfaction and customer safety.
 
